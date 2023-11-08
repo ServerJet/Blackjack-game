@@ -18,7 +18,7 @@
 #     5.compare
 #     6.repeat
 
-from calculator_art import logo
+from Art import logo
 import random
 
 #Adding a dictionary for the cards.
